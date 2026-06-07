@@ -6,13 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alireza85as/alireza85as/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/alireza85as/alireza85as/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://www.alirezaasadiyan.ir/img/banner.png"  />
 
 ###
