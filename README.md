@@ -3,7 +3,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&text=Hi%20👋!%20My%20name%20is%20Alireza%20Asadiyan&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=scaleIn&theme=tokyonight"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&text=Hi%20👋!%20My%20name%20is%20Alireza%20Asadiyan&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=scaleIn&color=000000"
   />
 </div>
 
