@@ -11,6 +11,12 @@
 
 <br><br>
 
+## About Me:
+
+I’m a full-stack developer focused on building clean, efficient, and scalable web applications. I enjoy turning ideas into real-world products using modern technologies, with a strong emphasis on performance, simplicity, and user experience.
+
+<br clear="both">
+
 ###
 
 # 💻 Tech Stack:
@@ -19,17 +25,17 @@
 ###
 <br clear="both">
 
-## 📫 Contact
+## 📫 Contact:
 
 <p align="center">
   <a href="https://www.instagram.com/ali.reza.asadiyan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://t.me/alireza85as" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
   <a href="https://alirezaasadiyan.ir" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://t.me/alireza85as" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:ali.r.asadiyan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
